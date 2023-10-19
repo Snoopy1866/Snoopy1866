@@ -8,3 +8,28 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoopy1866&theme=transparent&layout=compact&card_width=467">
     </a>
 </p>
+
+## 仓库列表
+
+### chore
+
+- [LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+- [subscription](https://github.com/Snoopy1866/subscription)
+- [blogs](https://github.com/Snoopy1866/blogs)
+
+### SAS
+
+- [FreqStatKit](https://github.com/Snoopy1866/FreqStatKit)
+- [RTFTools-For-SAS](https://github.com/Snoopy1866/RTFTools-For-SAS)
+- [Descriptive-Statistics-Macro](https://github.com/Snoopy1866/Descriptive-Statistics-Macro)
+
+### C#
+
+- [Mine](https://github.com/Snoopy1866/Mine)
+- [ChoEazyCopy_zh_CN](https://github.com/Snoopy1866/ChoEazyCopy_zh_CN)
+- [FileConverter](https://github.com/Snoopy1866/FileConverter)
+- [SampleSizeCalculator](https://github.com/Snoopy1866/SampleSizeCalculator)
+
+### R
+
+- [IntegrateGuider](https://github.com/Snoopy1866/IntegrateGuider)
