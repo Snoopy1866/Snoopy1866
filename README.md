@@ -11,17 +11,12 @@
 
 ## 仓库列表
 
-### chore
-
-- [LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
-- [subscription](https://github.com/Snoopy1866/subscription)
-- [blogs](https://github.com/Snoopy1866/blogs)
-
 ### SAS
 
 - [FreqStatKit](https://github.com/Snoopy1866/FreqStatKit)
 - [RTFTools-For-SAS](https://github.com/Snoopy1866/RTFTools-For-SAS)
 - [Descriptive-Statistics-Macro](https://github.com/Snoopy1866/Descriptive-Statistics-Macro)
+- [sas-documentation-zh_CN](https://github.com/Snoopy1866/sas-documentation-zh_CN)
 
 ### C#
 
@@ -34,3 +29,10 @@
 ### R
 
 - [IntegrateGuider](https://github.com/Snoopy1866/IntegrateGuider)
+
+### chore
+
+- [LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
+- [gkd-subscription](https://github.com/gkd-sub-repo/114514_subscription)
+- [blogs](https://github.com/Snoopy1866/blogs)
+- [awesome-toolkit](https://github.com/Snoopy1866/awesome-toolkit)
