@@ -18,6 +18,10 @@
 - [Descriptive-Statistics-Macro](https://github.com/Snoopy1866/Descriptive-Statistics-Macro)
 - [sas-documentation-zh_CN](https://github.com/Snoopy1866/sas-documentation-zh_CN)
 
+### Python
+
+- [text-elementalizer](https://github.com/Snoopy1866/text-elementalizer)
+
 ### C#
 
 - [Mine](https://github.com/Snoopy1866/Mine)
