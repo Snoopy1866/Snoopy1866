@@ -7,7 +7,7 @@
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <a href="https://github.com/snoopy1866/snoopy1866">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=snoopy1866&show_icons=true&hide_border=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&count_private=true&include_all_commits=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=snoopy1866&show_icons=true&hide_border=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&count_private=true&include_all_commits=true&line_height=29">
     </a>
     <a href="https://github.com/snoopy1866/snoopy1866">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoopy1866&theme=transparent&layout=donut-vertical&hide_border=true">
