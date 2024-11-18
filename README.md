@@ -1,6 +1,6 @@
 <p align="left">
     <a href="https://github.com/snoopy1866/snoopy1866">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=snoopy1866&show_icons=true&theme=transparent&include_all_commits">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=snoopy1866&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&count_private=true&include_all_commits=true">
     </a>
     <br>
     <br>
