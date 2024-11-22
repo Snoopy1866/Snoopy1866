@@ -22,7 +22,7 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cs,java,r,md,regex,vscode,lightroom,premiere,mediaencoder&titles=true">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cs,java,r,javascript,nodejs,react,md,regex,vscode,lightroom,premiere,mediaencoder&titles=true">
 </p>
 
 ## 仓库列表
