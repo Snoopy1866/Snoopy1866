@@ -15,6 +15,11 @@
 </p>
 
 <p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Snoopy1866&theme=github-compact&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=snoopy1866&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
