@@ -27,6 +27,9 @@
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cs,java,r,html,javascript,nodejs,react,md,regex,vscode,lightroom,premiere,mediaencoder&titles=true" alt="skill icons" title="skill icons">
 </p>
 
+<p align"center">
+    <a href="https://wakatime.com/Snoopy1866"><img src="https://wakatime.com/badge/user/5573ba7d-0080-4029-a250-8d1b10a533f4.svg" alt="wakatime" title="wakatime"/></a>
+</p>
 ## Repos
 
 ### SAS
