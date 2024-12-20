@@ -27,30 +27,13 @@
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cs,java,r,html,javascript,nodejs,react,md,regex,vscode,lightroom,premiere,mediaencoder&titles=true" alt="skill icons" title="skill icons">
 </p>
 
-<p align"center">
+<p align="center">
     <a href="https://wakatime.com/Snoopy1866"><img src="https://wakatime.com/badge/user/5573ba7d-0080-4029-a250-8d1b10a533f4.svg" alt="wakatime" title="wakatime"/></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/Xiaokang2022"><img src="https://komarev.com/ghpvc/?username=Snoopy1866&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
-## Repos
 
-### SAS
-
-- [Descriptive-Statistics-Macro](https://github.com/Snoopy1866/Descriptive-Statistics-Macro)
-- [RTFTools-For-SAS](https://github.com/Snoopy1866/RTFTools-For-SAS)
-- [FreqStatKit](https://github.com/Snoopy1866/FreqStatKit)
-
-### Python
-
-- [PyStatPower](https://github.com/PyStatPower/PyStatPower)
-- [text-elementalizer](https://github.com/Snoopy1866/text-elementalizer)
-
-### C#
-
-- [Mine](https://github.com/Snoopy1866/Mine)
-- [ProjectProgressExport](https://github.com/Snoopy1866/ProjectProgressExport)
-- [ChoEazyCopy_zh_CN](https://github.com/Snoopy1866/ChoEazyCopy_zh_CN)
-
-### Miscellaneous
-
-- [LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules)
-- [blogs](https://github.com/Snoopy1866/blogs)
-- [awesome-toolkit](https://github.com/Snoopy1866/awesome-toolkit)
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <a href="https://wakatime.com/@Snoopy1866"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoopy1866&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" width=800 alt="wakatime" title="wakatime"></a>
+</p>
