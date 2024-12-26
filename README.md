@@ -30,7 +30,7 @@
 <p align="center">
     <a href="https://wakatime.com/Snoopy1866"><img src="https://wakatime.com/badge/user/5573ba7d-0080-4029-a250-8d1b10a533f4.svg" alt="wakatime" title="wakatime"/></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/Xiaokang2022"><img src="https://komarev.com/ghpvc/?username=Snoopy1866&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <a href="https://github.com/Snoopy1866"><img src="https://komarev.com/ghpvc/?username=Snoopy1866&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 
 <p align="center">
