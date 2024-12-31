@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 03:17 BJS == 19:17 UTC
-    - cron: "17 19 * * *"
+    - cron: "17 19 1 * *"
   workflow_dispatch:
 
 permissions:
