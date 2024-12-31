@@ -1,3 +1,9 @@
+<p align="left">
+    <a href="https://wakatime.com/Snoopy1866"><img src="https://wakatime.com/badge/user/5573ba7d-0080-4029-a250-8d1b10a533f4.svg" alt="wakatime" title="wakatime"/></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/Snoopy1866"><img src="https://komarev.com/ghpvc/?username=Snoopy1866&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
@@ -28,12 +34,11 @@
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/Snoopy1866"><img src="https://wakatime.com/badge/user/5573ba7d-0080-4029-a250-8d1b10a533f4.svg" alt="wakatime" title="wakatime"/></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/Snoopy1866"><img src="https://komarev.com/ghpvc/?username=Snoopy1866&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <a href="https://wakatime.com/@Snoopy1866"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoopy1866&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" width=800 alt="wakatime" title="wakatime"></a>
 </p>
 
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <a href="https://wakatime.com/@Snoopy1866"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoopy1866&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" width=800 alt="wakatime" title="wakatime"></a>
+    <!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width=800 alt="profile-3d-contrib" title="profile-3d-contrib">
 </p>
