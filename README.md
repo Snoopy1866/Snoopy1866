@@ -4,6 +4,12 @@
 </p>
 
 <p align="center">
+    <a href="https://wakatime.com/Snoopy1866"><img src="https://wakatime.com/badge/user/5573ba7d-0080-4029-a250-8d1b10a533f4.svg" alt="wakatime" title="wakatime"/></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/Snoopy1866"><img src="https://komarev.com/ghpvc/?username=Snoopy1866&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+
+<p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=snoopy1866&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
@@ -28,12 +34,11 @@
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/Snoopy1866"><img src="https://wakatime.com/badge/user/5573ba7d-0080-4029-a250-8d1b10a533f4.svg" alt="wakatime" title="wakatime"/></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/Snoopy1866"><img src="https://komarev.com/ghpvc/?username=Snoopy1866&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <!-- https://github.com/Platane/snk -->
+    <img width="800" src="profile-contrib-snake/github-snake.svg" alt="contrib snake" title="contrib snake">
 </p>
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <a href="https://wakatime.com/@Snoopy1866"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoopy1866&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" width=800 alt="wakatime" title="wakatime"></a>
+    <a href="https://wakatime.com/@Snoopy1866"><img width=800 src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoopy1866&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
 </p>
