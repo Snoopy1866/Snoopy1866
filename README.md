@@ -34,11 +34,11 @@
 </p>
 
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <a href="https://wakatime.com/@Snoopy1866"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoopy1866&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" width=800 alt="wakatime" title="wakatime"></a>
+    <!-- https://github.com/Platane/snk -->
+    <img width="800" src="profile-contrib-snake/github-snake.svg" alt="contrib snake" title="contrib snake">
 </p>
 
 <p align="center">
-    <!-- https://github.com/Platane/snk -->
-    <img width="800" src="profile-contrib-snake/github-snake.svg" alt="contrib snake" title="contrib snake">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <a href="https://wakatime.com/@Snoopy1866"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoopy1866&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" width=800 alt="wakatime" title="wakatime"></a>
 </p>
