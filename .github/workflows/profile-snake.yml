@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "17 19 * * *"
+    - cron: "17 19 * * 0"
   workflow_dispatch:
 
 permissions:
