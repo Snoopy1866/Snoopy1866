@@ -30,7 +30,7 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,sas,r,html,javascript,cs,java,md,regex,vscode,lightroom,premiere,mediaencoder&titles=true" alt="skill icons" title="skill icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,sas,r,html,javascript,cs,java,md,sphinx,regex,vscode,lightroom,premiere,mediaencoder&titles=true" alt="skill icons" title="skill icons">
 </p>
 
 <p align="center">
